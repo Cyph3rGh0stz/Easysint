@@ -1,2 +1,2 @@
 # Social Media OSINT
-This is a bash script to automate OSINTin Linux, specifically in the Parrot sec distro.
+This is a bash script to automate OSINT in Linux, specifically in the Parrot sec distro.
